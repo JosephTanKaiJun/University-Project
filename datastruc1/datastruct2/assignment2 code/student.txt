@@ -1,0 +1,47 @@
+Student Id = 28
+Name = Matt Damon
+Address = 465 Ripley Boulevard, Oscar Mansion, Malaysia 7666322
+DOB = 10-10-1970
+Phone Number = 790-3233
+Course = CS
+CGPA = 3.12076
+
+Student Id = 22
+Name = Ben Affleck
+Address = 200 Hunting Street, Malaysia 784563
+DOB = 25-10-1968
+Phone Number = 432-4579
+Course = IB
+CGPA = 3.12076
+
+Student Id = 23
+Name = Salma Hayek
+Address = 45 Mexican Boulevard, Hotel California, Malaysia 467822
+DOB = 06-04-1973
+Phone Number = 790-0000
+Course = CS
+CGPA = 3.12076
+
+Student Id = 19
+Name = Phua Chu Kang
+Address = 50 PCK Avenue, Malaysia 639798
+DOB = 11-08-1964
+Phone Number = 345-6780
+Course = CS
+CGPA = 3.12076
+
+Student Id = 21
+Name = Zoe Tay
+Address = 100 Blue Eyed St, Malaysia 456872
+DOB = 15-02-1968
+Phone Number = 456-1234
+Course = CS
+CGPA = 3.12076
+
+Student Id = 125
+Name = Julia Roberts
+Address = 100 Brokovich St, Malaysia 456455
+DOB = 15-08-1965
+Phone Number = 456-4321
+Course = IB
+CGPA = 3.23678
